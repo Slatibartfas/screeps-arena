@@ -1,7 +1,5 @@
 # screeps-arena-bot
 
-> Note: This is a private copy of `Slatibartfas/screeps-arena` prepared for personal development.
-
 A complete TypeScript boilerplate for building [Screeps Arena](https://store.steampowered.com/app/464350/Screeps_Arena/) bots with modern tooling:
 
 - 🔧 **Rollup build system** — compiles TypeScript to `.mjs` modules
